@@ -29,7 +29,7 @@ addBus!(system; label = 20, type = 1, base =  33, active =  2.2, reactive =  0.7
 addBus!(system; label = 21, type = 1, base =  33, active = 17.5, reactive = 11.2, susceptance =  0.0, magnitude = 1.033, angle = -16.42)
 addBus!(system; label = 22, type = 1, base =  33, active =  0.0, reactive =  0.0, susceptance =  0.0, magnitude = 1.033, angle = -16.41)
 addBus!(system; label = 23, type = 1, base =  33, active =  3.2, reactive =  1.6, susceptance =  0.0, magnitude = 1.027, angle = -16.61)
-addBus!(system; label = 24, type = 1, base =  33, active =  8.7, reactive =  6.7, susceptance = 4.3,  magnitude = 1.021, angle = -16.78)
+addBus!(system; label = 24, type = 1, base =  33, active =  8.7, reactive =  6.7, susceptance =  4.3, magnitude = 1.021, angle = -16.78)
 addBus!(system; label = 25, type = 1, base =  33, active =  0.0, reactive =  0.0, susceptance =  0.0, magnitude = 1.017, angle = -16.35)
 addBus!(system; label = 26, type = 1, base =  33, active =  3.5, reactive =  2.3, susceptance =  0.0, magnitude = 1.000, angle = -16.77)
 addBus!(system; label = 27, type = 1, base =  33, active =  0.0, reactive =  0.0, susceptance =  0.0, magnitude = 1.023, angle = -15.82)
